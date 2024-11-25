@@ -1,0 +1,15 @@
+D:\xampp\htdocs\cviceni\dotnet2\bin\Debug\net9.0\dotnet2.exe
+D:\xampp\htdocs\cviceni\dotnet2\bin\Debug\net9.0\dotnet2.deps.json
+D:\xampp\htdocs\cviceni\dotnet2\bin\Debug\net9.0\dotnet2.runtimeconfig.json
+D:\xampp\htdocs\cviceni\dotnet2\bin\Debug\net9.0\dotnet2.dll
+D:\xampp\htdocs\cviceni\dotnet2\bin\Debug\net9.0\dotnet2.pdb
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.AssemblyInfoInputs.cache
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.AssemblyInfo.cs
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.sourcelink.json
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.dll
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\refint\dotnet2.dll
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.pdb
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\dotnet2.genruntimeconfig.cache
+D:\xampp\htdocs\cviceni\dotnet2\obj\Debug\net9.0\ref\dotnet2.dll
